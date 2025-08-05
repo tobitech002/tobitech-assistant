@@ -24,8 +24,8 @@ A dark-themed, mobile-responsive AI-powered dashboard built with Next.js and Tai
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/tobitech002/YOUR-REPO-NAME.git
+   cd YOUR-REPO-NAME
    ```
 
 2. **Install dependencies:**
